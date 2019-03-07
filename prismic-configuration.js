@@ -9,7 +9,7 @@ module.exports = {
   // clientId: 'xxxxxx',
   // clientSecret: 'xxxxxx',
 
-  snipcartKey: 'your-snipcart-api-key',
+  snipcartKey: 'NTY2NzQwYWEtNjAyZi00ZjY3LWIwMDAtMWRhNGE1ZmM0NDA2NjM2ODc1NjU1NzQxODUyMzkw',
 
   // -- Links resolution rules
   // This function will be used to generate links to Prismic.io documents
